@@ -62,4 +62,20 @@ stock_prediction.py – main Python script for data processing, model training, 
 stock_data.csv – dataset containing historical stock data
 stock_predictions.csv – generated file containing predicted results
 README.md – project documentation explaining the workflow and usage
+Project Screenshots
 
+Stock Price Prediction Graph
+
+![Graph](graph.png)
+
+Model Output 1
+
+![Output1](output1.png)
+
+Model Output 2
+
+![Output2](output2.png)
+
+Model Output 3
+
+![Output3](output3.png)
